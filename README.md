@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I’m Ayokunle, a full-stack developer based in Nigeria.  
+I’m Vincent, a full-stack developer based in Nigeria.  
 
 I love building **useful, delightful, and high-performing web experiences** that solve real problems. My interests span across **AI/ML, blockchain, and scalable software engineering**.  
 
